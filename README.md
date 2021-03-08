@@ -18,7 +18,7 @@ Puede basarse en las siguiente referencias. Lo que use lo referencia en su bibli
 
 Podemos ayudarnos, pero la tarea es individual.
 
-# links del Jupyter Notebook realizado para esta entrega en nbviewer, binder y BitBucket
+# Links del Jupyter Notebook realizado para esta entrega en nbviewer, binder y BitBucket
 1. [nbviewer](https://nbviewer.jupyter.org/github/nriverag/Regresion_Lineal/blob/main/Script.ipynb)
 2. [binder](https://mybinder.org/v2/gh/nriverag/Regresion_Lineal/615c1e455336759422cbf4777ba88a1ae0fa4e59)
 3. [BitBucket ](https://htmlpreview.github.io/?https://github.com/nriverag/Regresion_Lineal/blob/main/Script_html.html)
